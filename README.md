@@ -3,7 +3,7 @@ Este projeto analisa uma base de dados feita para simular dados de um e-commerce
 
 📊 [Veja o dashboard completo aqui ](https://app.powerbi.com/view?r=eyJrIjoiNTAyYTY4MTctNGJkZS00NjMyLThjMzAtNDYxNTliMWEzNGQ3IiwidCI6IjBjN2IxYjM2LTllNjAtNDcwZi05ZGYxLTE4ZTgwOGY4Y2Y0NSJ9)
 
-📄 Veja a minha apresentação aqui [.pdf]
+📄 Veja a minha apresentação aqui (em breve)
 
 📋 Índice
 1. Introdução
@@ -18,7 +18,7 @@ Um dashboard permite disponibilizar informação relevante em um só lugar. Assi
 
 📁 Dicionário dos Dados
 
-📄 Veja o dicionário completo aqui [.pdf]
+📄 [Veja o dicionário completo aqui ](https://github.com/rocha-vianna/Ecommerce_PowerBI/blob/main/DICION%C3%81RIO%20DE%20DADOS.pdf)
 
 🎯 Objetivo do Dashboard
 
