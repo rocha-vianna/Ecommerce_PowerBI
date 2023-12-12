@@ -1,7 +1,7 @@
 # Ecommerce_PowerBI
 Este projeto analisa uma base de dados feita para simular dados de um e-commerce internacional no período de 01/01/2007 a 26/09/2009. Podemos extrair insights como Custos x Vendas (por tempo, país e promoção), uma Análise do Lucro e também Relatório de Vendas incluindo a Lista de Pedidos. Tudo isso criado em forma de dashboard em Power BI com 3 páginas disponíveis, vários filtros e algumas surpresas.
 
-📊 Veja o dashboard completo aqui [.ipynb]
+📊 [Veja o dashboard completo aqui ](https://app.powerbi.com/view?r=eyJrIjoiNTAyYTY4MTctNGJkZS00NjMyLThjMzAtNDYxNTliMWEzNGQ3IiwidCI6IjBjN2IxYjM2LTllNjAtNDcwZi05ZGYxLTE4ZTgwOGY4Y2Y0NSJ9)
 
 📄 Veja a minha apresentação aqui [.pdf]
 
